@@ -1,0 +1,7 @@
+pandas==1.2.5
+geopandas==0.9.0
+parsel==1.6.0
+selenium==3.141.0
+folium==0.12.1
+jupyterlab==3.0.16
+here_location_services==0.2.0
